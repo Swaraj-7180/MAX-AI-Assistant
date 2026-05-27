@@ -1,0 +1,23 @@
+# Sensitive files
+messaging.py
+ai_brain.py
+
+# Runtime data
+tasks.json
+reminders.json
+second_brain.json
+bugs.json
+*.mp3
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Logs
+*.log
+
+.env
+*.env

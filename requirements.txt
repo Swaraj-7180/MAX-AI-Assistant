@@ -1,0 +1,34 @@
+# ── AI & API ──────────────────────────────────────────
+groq
+ollama
+
+# ── Voice Input ───────────────────────────────────────
+SpeechRecognition
+pyaudio
+
+# ── Voice Output ──────────────────────────────────────
+edge-tts
+gTTS
+
+# ── GUI ───────────────────────────────────────────────
+customtkinter
+
+# ── System Control ────────────────────────────────────
+pycaw
+comtypes
+pywin32
+keyboard
+
+# ── Web & Search ──────────────────────────────────────
+pywhatkit
+youtube-search-python
+requests
+urllib3
+
+# ── Productivity ──────────────────────────────────────
+schedule
+
+# ── Utilities ─────────────────────────────────────────
+python-dotenv
+psutil
+python-pptx
